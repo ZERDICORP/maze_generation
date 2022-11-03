@@ -5,7 +5,7 @@
 ## Launch guide
 
 ```console
-$ git clone https://github.com/ZERDICORP/maze_generation".git
+$ git clone https://github.com/ZERDICORP/maze_generation.git
 $ cd maze_generation
 $ ./run
 ```
